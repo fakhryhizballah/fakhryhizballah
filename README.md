@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/fakhry-hizballah-a226b41b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakhry-hizballah-a226b41b6" height="30" width="40" /></a>
 <a href="https://instagram.com/hizballah_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hizballah_al" height="30" width="40" /></a>
-<a href="/https://spairum.my.id/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://spairum.my.id/about" height="30" width="40" /></a>
+<a href="https://spairum.my.id/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://spairum.my.id/about" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

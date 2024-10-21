@@ -1,4 +1,3 @@
-[![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)]
 <h1 align="center">Hi 👋, I'm Fakhry Hizballah</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
